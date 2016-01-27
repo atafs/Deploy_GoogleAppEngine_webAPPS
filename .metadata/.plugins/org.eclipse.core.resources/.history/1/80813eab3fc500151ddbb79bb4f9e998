@@ -24,7 +24,7 @@
 			<p>WS(web services): yyy</p>
 		</div>
 		<h2>
-			<span class="label label-warning">Type and Description on the projects created this week!!</span>
+			<span class="label label-primary">Type and Description on the projects created this week!!</span>
 		</h2>
 		<div class="col-md-6">
 			<table class="table table-condensed">
@@ -61,7 +61,7 @@
 					<iframe width="300" height="200" src="https://www.youtube.com/embed/Jtj-0yhox5s" frameborder="0" allowfullscreen></iframe>
 					<iframe width="300" height="200" src="https://www.youtube.com/embed/Jtj-0yhox5s" frameborder="0" allowfullscreen></iframe>
 					<h2>
-						<span class="label label-primary" style="color:#000066;">github: <a style="color:white;" href="https://1-dot-project001deploybootstrapsite.appspot.com/">name_of_the_project</a></span>
+						<span class="label label-success" style="color:black;">link src: <a style="color:white;" href="https://project001deploybootstrapsite.appspot.com/">name_of_the_project</a></span>
 					</h2>	
 				</div>
 			</div>
@@ -73,10 +73,10 @@
 				<div class="panel-body">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/Jtj-0yhox5s" frameborder="0" allowfullscreen></iframe>
 				</div>
-				<h2>
-					<span class="label label-primary" style="color:#000066;">github: <a style="color:white;" href="https://1-dot-project001deploybootstrapsite.appspot.com/">name_of_the_project</a></span>
-				</h2>
-			</div>	
+			</div>
+		<h2>
+			<span class="label label-success">Type and Description on the projects created this week!!</span>
+		</h2>	
 		</div>
 	</div>
 	</div>

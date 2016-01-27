@@ -20,11 +20,10 @@
 		<!-- Main jumbotron for a primary marketing message or call to action -->
 		<div style="background-color: #000066; color: #e5e5ff" class="jumbotron">
 			<h1>TDD and WS</h1>
-			<p>TDD(test driven development): xxx</p>
-			<p>WS(web services): yyy</p>
+			<p>Development in these areas...</p>
 		</div>
 		<h2>
-			<span class="label label-warning">Type and Description on the projects created this week!!</span>
+			<span class="label label-primary">Type and Description on the projects created this week!!</span>
 		</h2>
 		<div class="col-md-6">
 			<table class="table table-condensed">
@@ -38,12 +37,12 @@
 				<tbody>
 					<tr>
 						<td>1</td>
-						<td>TDD</td>
+						<td>TDD(test driven development)</td>
 						<td>JUnit, Mockito and EclEmma aaa aaaaaa aaaaaaaa aaaaaaa a aaaaaaaaa aaaaaaaaa aaaaaa aaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaaa</td>
 					</tr>
 					<tr>
 						<td>2</td>
-						<td>WS</td>
+						<td>WS (web services)</td>
 						<td>SOAP(simple object xxx yyy)</td>
 					</tr>
 				</tbody>
@@ -60,12 +59,8 @@
 					<iframe width="300" height="200" src="https://www.youtube.com/embed/Jtj-0yhox5s" frameborder="0" allowfullscreen></iframe>
 					<iframe width="300" height="200" src="https://www.youtube.com/embed/Jtj-0yhox5s" frameborder="0" allowfullscreen></iframe>
 					<iframe width="300" height="200" src="https://www.youtube.com/embed/Jtj-0yhox5s" frameborder="0" allowfullscreen></iframe>
-					<h2>
-						<span class="label label-primary" style="color:#000066;">github: <a style="color:white;" href="https://1-dot-project001deploybootstrapsite.appspot.com/">name_of_the_project</a></span>
-					</h2>	
 				</div>
 			</div>
-	
 			<div class="panel panel-info">
 				<div class="panel-heading">
 					<h3 class="panel-title">2- SOAP(simple object xxx yyy)</h3>
@@ -73,10 +68,7 @@
 				<div class="panel-body">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/Jtj-0yhox5s" frameborder="0" allowfullscreen></iframe>
 				</div>
-				<h2>
-					<span class="label label-primary" style="color:#000066;">github: <a style="color:white;" href="https://1-dot-project001deploybootstrapsite.appspot.com/">name_of_the_project</a></span>
-				</h2>
-			</div>	
+			</div>
 		</div>
 	</div>
 	</div>

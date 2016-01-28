@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="../../favicon.ico">
+
+<title>AmericoTomas Proj</title>
+
+</head>
+<body role="document">
+	<div class="container theme-showcase" role="main">
+		<!-- Main jumbotron for a primary marketing message or call to action -->
+		<div style="background-color: #000066; color: #e5e5ff"
+			class="jumbotron">
+			<h1>TDD and WS</h1>
+			<p>- TDD(test driven development): it is a concept related with the capacity of writing code with quality.</p>
+			<p>- WS(web services): a Web service is a service offered by an electronic device to another electronic device, communicating with each other via the World wide web</p>
+		</div>
+		<h2>
+			<span class="label label-warning">Type and Description on the
+				projects created this week!!</span>
+		</h2>
+		<div class="col-md-6">
+			<table class="table table-condensed">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Type</th>
+						<th>Descritpion</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>TDD</td>
+						<td>EclEmma: plugin installed in IDE Eclipse to verify quantity of code tested using JUnit and Mockito!! To assure quality of code ;)) </td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>WS</td>
+						<td>SOAP(simple object access protocol): </td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="row"></div>
+		<!-- /.col-sm-4 -->
+		<div class="row-sm-4">
+			<div class="panel panel-info">
+				<div class="panel-heading">
+					<h3 class="panel-title">1- JUnit, Mockito and EclEmma</h3>
+				</div>
+				<div class="panel-body">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/hkk8kWs78kk?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>
+					<h2>
+						<span class="label label-primary" style="color: #000066;">github:
+							<a style="color: white;"
+							href="https://1-dot-project001deploybootstrapsite.appspot.com/">name_of_the_project</a>
+						</span>
+					</h2>
+				</div>
+			</div>
+
+			<div class="panel panel-info">
+				<div class="panel-heading">
+					<h3 class="panel-title">2- SOAP(simple object xxx yyy)</h3>
+				</div>
+				<div class="panel-body">
+					<iframe width=300 height="200" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/SM-KYOlsO4Q?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
+				</div>
+				<h2>
+					<span class="label label-primary" style="color: #000066;">github:
+						<a style="color: white;"
+						href="https://1-dot-project001deploybootstrapsite.appspot.com/">name_of_the_project</a>
+					</span>
+				</h2>
+			</div>
+		</div>
+	</div>
+	</div>
+	<!-- /container -->
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+		integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+		crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+		integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
+		crossorigin="anonymous">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+		integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+		crossorigin="anonymous"></script>
+</body>
+</html>

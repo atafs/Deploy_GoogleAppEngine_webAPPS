@@ -15,7 +15,8 @@
 <body role="document">
 	<div class="container theme-showcase" role="main">
 		<!-- Main jumbotron for a primary marketing message or call to action -->
-		<div style="background-color: #000066; color: #e5e5ff" class="jumbotron">
+		<div style="background-color: #000066; color: #e5e5ff"
+			class="jumbotron">
 			<h1>TDD, WS and DEPLOY</h1>
 			<p>- TDD(test driven development): it is a concept related with the capacity of writing code with quality.</p>
 			<p>- WS(web services): a Web service is a service offered by an electronic device to another electronic device, communicating with each other via the World wide web</p>
@@ -58,7 +59,7 @@
 		</div>
 		<div class="row"></div>
 		<!-- /.col-sm-4 -->
-		<div class="row-sm-4"  style="text-align: center">
+		<div class="column-sm-4">
 			<div class="panel panel-info">
 				<div class="panel-heading">
 					<h3 class="panel-title">1- JUnit, Mockito and EclEmma</h3>
@@ -118,18 +119,6 @@
 					</h2>
 					<p>GAE: how to run and deploy an APP using the google engine</p>
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/08jA6HK72pU?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>
-				</div>
-			</div>
-			<div class="panel panel-info">
-				<div class="panel-heading">
-					<h3 class="panel-title">4- Older version of this Site</h3>
-				</div>
-				<div class="panel-body">
-					<div>
-						<p>Build and Deploy:</p>
-						<a href="https://3-dot-project001deploybootstrapsite.appspot.com/">Version 03</a> <br/>
-						<a href="https://1-dot-project001deploybootstrapsite.appspot.com/">Version 01</a> <br/>
-					</div>
 				</div>
 			</div>
 		</div>

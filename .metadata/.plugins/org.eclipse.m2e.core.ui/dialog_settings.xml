@@ -44,12 +44,14 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Project_003_Deploy_americotomasLIB"/>
 			<item value="Project_001_AngularJS_libAndBinding"/>
 		</list>
 		<list key="name">
 			<item value="AmericoTomas"/>
 		</list>
 		<list key="artifactId">
+			<item value="Project_003_Deploy_americotomasLIB"/>
 			<item value="Project_001_AngularJS_libAndBinding"/>
 		</list>
 		<list key="version">

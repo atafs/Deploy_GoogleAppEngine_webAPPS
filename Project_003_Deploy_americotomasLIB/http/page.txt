@@ -1,7 +1,7 @@
 //Project URL
-http://project002deploymoreapps.appspot.com/
+http://project003deploymoreapps.appspot.com/
 http://localhost:8888/
 
 //ID do projeto
-project002deploymoreapps
+project003deploymoreapps
 

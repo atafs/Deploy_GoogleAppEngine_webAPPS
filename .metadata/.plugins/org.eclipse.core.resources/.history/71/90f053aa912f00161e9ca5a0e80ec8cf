@@ -97,7 +97,7 @@
 							<tbody>
 								<tr>
 									<td>1</td>
-									<td>version-control github</td>
+									<td>github</td>
 									<td><a href="https://github.com/atafs/BackEnd_GOlang_google">https://github.com/atafs/BackEnd_GOlang_google</a></td>
 								</tr>
 			
@@ -136,13 +136,13 @@
 							<tbody>
 								<tr>
 									<td>1</td>
-									<td>version-control github</td>
+									<td>github</td>
 									<td><a href="https://github.com/atafs/BackEnd_Javascript_nodeJS_1express">https://github.com/atafs/BackEnd_Javascript_nodeJS_1express</a></td>
 								</tr>
 								<tr>
 									<td>2</td>
 									<td>deploy heroku</td>
-									<td><a href="https://app02nodejs.herokuapp.com">https://app02nodejs.herokuapp.com</a></td>
+									<td><a href="https://project004newLanguages.appspot.com/">https://project004newLanguages.appspot.com</a></td>
 								
 								</tr>
 			
@@ -160,26 +160,6 @@
 						<span class="label label-primary" style="color: white;">FrontEnd Jade nodeJS 1start</span>
 					</h2>
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/efGCvCMgV58?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>
-					<div class="row-md-6" style="text-align: left">
-						<table class="table table-condensed">
-							<thead>
-								<tr>
-									<th>#</th>
-									<th>Type</th>
-									<th>Link</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>1</td>
-									<td>version-control github</td>
-									<td><a href="https://github.com/atafs/FrontEnd_Jade_nodeJS">https://github.com/atafs/FrontEnd_Jade_nodeJS</a></td>
-								</tr>
-			
-							</tbody>
-						</table>
-					</div>
-				
 				</div>
 			</div>
 			<div class="panel panel-info">
@@ -203,7 +183,7 @@
 							<tbody>
 								<tr>
 									<td>1</td>
-									<td>version-control github</td>
+									<td>github</td>
 									<td><a href="https://github.com/atafs/BackEnd_databaseMongoDB">https://github.com/atafs/BackEnd_databaseMongoDB</a></td>
 								</tr>
 			
@@ -241,7 +221,7 @@
 							<tbody>
 								<tr>
 									<td>1</td>
-									<td>version-control github</td>
+									<td>github</td>
 									<td><a href="https://github.com/atafs/AMQP_RabbitMQ_start-java">https://github.com/atafs/AMQP_RabbitMQ_start-java</a></td>
 								</tr>
 			

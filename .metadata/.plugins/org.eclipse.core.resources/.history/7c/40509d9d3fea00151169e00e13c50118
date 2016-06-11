@@ -58,7 +58,7 @@
 					<tr>
 						<td>4</td>
 						<td>Java MultiThread APP</td>
-						<td>using server-client and consumer-producer and shared resources relationships. The use of synchronized/locks/semaphores to control multi-thread applications. Also some Swing Apps, as well as an update to JDK8 syntaxe and options. </td>
+						<td>using server-client relationships, consumer-producer and shared resources. And the synchronized/locks to avoid dead/live locks and more!! </td>
 					</tr>
 				</tbody>
 			</table>

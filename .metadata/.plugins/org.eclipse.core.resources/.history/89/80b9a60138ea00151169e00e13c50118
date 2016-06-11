@@ -58,7 +58,7 @@
 					<tr>
 						<td>4</td>
 						<td>Java MultiThread APP</td>
-						<td>using server-client and consumer-producer and shared resources relationships. The use of synchronized/locks/semaphores to control multi-thread applications. Also some Swing Apps, as well as an update to JDK8 syntaxe and options. </td>
+						<td>using server-client relationships, consumer-producer and shared resources. And the synchronized/locks to avoid dead/live locks and more!! </td>
 					</tr>
 				</tbody>
 			</table>
@@ -72,16 +72,16 @@
 				</div>
 				<div class="panel-body">
 					<h2>
-						<span class="label label-success" style="color: white;">BackEnd Spring4 dependency injection 1 </span>
+						<span class="label label-success" style="color: white;">BackEnd Spring4 beans 1 </span>
 					</h2>
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/Du7AS10nu5E?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>			</div>
 
 					<h2>
-						<span class="label label-success" style="color: white;">BackEnd Spring4 dependency injection 2 </span>
+						<span class="label label-success" style="color: white;">BackEnd Spring4 beans 2 </span>
 					</h2>
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/zR3eTE_SfqA?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>					
 					<h2>
-						<span class="label label-success" style="color: white;">BackEnd Spring4 dependency injection 3 </span>
+						<span class="label label-success" style="color: white;">BackEnd Spring4 beans 3 </span>
 					</h2>
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/j4keIC6l26c?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>						
 			<div class="panel panel-default">
@@ -112,8 +112,7 @@
 					<h2>
 						<span class="label label-success" style="color: white;">BackEnd JavaSCALA 2more scritps part2</span>
 					</h2>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/1qkyJy43zqM" frameborder="0" allowfullscreen></iframe>
-					<h2>	
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/cvBhTftE7i8" frameborder="0" allowfullscreen></iframe>					<h2>
 						<span class="label label-success" style="color: white;">BackEnd JavaSCALA 3transferFilesFILEZILLA</span>
 					</h2>
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/jYYUx9wxahk?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>					
@@ -127,16 +126,7 @@
 						<h2>
 							<span class="label label-success" style="color: white;">BackEnd JavaMULTITHREADS chat v1 </span>
 						</h2>	
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/NhJHZucoKM8?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>				</div>						
-						<h2>
-							<span class="label label-success" style="color: white;">BackEnd JavaMULTITHREADS concurrency distribution </span>
-						</h2>
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/b2q7uk7mDjc" frameborder="0" allowfullscreen></iframe>
-						<h2>
-							<span class="label label-success" style="color: white;">BackEnd JavaJDK8 update </span>
-						</h2>
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/O-yVj5oZNno" frameborder="0" allowfullscreen></iframe>
-			
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/NhJHZucoKM8?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>				</div>
 			</div>
 		</div>
 	</div>
